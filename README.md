@@ -2,7 +2,7 @@
 Walala is a wallpaper player for windows, fast, and scripted so simple anyone could audit it.
 
 # All Working Features : 
-Live Wallpapers compatible with common video formats, auto-restart, auto-startup with system, and last played video memory.
+Live Wallpapers compatible with common video formats, auto-restart, auto-startup with system, last played video memory and resume with system pause, sleep, hibernation, etc.
 
 Settings are stored in a simple txt document created whereever the exe is, the program is 100% portable. 
 
