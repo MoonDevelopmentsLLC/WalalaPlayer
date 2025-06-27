@@ -9,6 +9,7 @@ Python was chosen because it is beginner friendly and understood very well by LL
 
 Current bugs : When having multiple monitors, the extra monitors have the taskbar hidden unless there is a window or program open. (Even having resmon or task manager open is enough to stop the bug from happening for now)
                 Maybe this function/bug can be turned into a toggle for people who like the auto fullscreen effect when extra monitors are not in use.
+ Desktop icons are hidden but can still be clicked, once again, maybe a future toggle.               
 
 Contributions : All contributions are welcomed, just don't break the program or do anything malicious please check your changes first to verify stability :). 
 
