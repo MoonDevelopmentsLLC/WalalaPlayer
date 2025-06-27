@@ -21,7 +21,7 @@ Desktop icons are hidden but can still be clicked, once again, maybe a future to
 
 # LICENSE : 
 https://creativecommons.org/licenses/by/4.0/ + one specified requirement of linking back to MoonDevelopments github or https://moonala.com and also sharing the project with us (^_^.) .
-
+Attributions : OpenCV , Pystray, Pillow(PILFork), pywin32 pypiwin32, screeninfo, and Python of course. Inspiration came from some fish tank wallpaper stuff from back in the day.
 # Usage : 
 The pre-compiled exe in releases is ready to go, just run it, choose your video and hit start.
 <img src="https://raw.githubusercontent.com/MoonDevelopmentsLLC/Walala_Player/refs/heads/main/readmeAssets/Frame%201.png" width="500" height="400" />
