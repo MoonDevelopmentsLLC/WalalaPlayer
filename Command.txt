@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon=icon.ico --add-data "icon.ico;." --hidden-import=win32gui --hidden-import=win32con --hidden-import=win32api --hidden-import=pystray._win Walala_Player.py
