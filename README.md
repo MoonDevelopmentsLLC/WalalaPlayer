@@ -13,7 +13,7 @@ Current bugs : When having multiple monitors, the extra monitors have the taskba
 
 Contributions : All contributions are welcomed, just don't break the program or do anything malicious please check your changes first to verify stability :). 
 
-Building : Can be built with pyinstaller or any other python compiler. If unable, it can be ran by simply installing python and double clicking the script.
+Building : Can be built with pyinstaller using the line in command.txt or any other python compiler. If unable, it can be ran by simply installing python and double clicking the script.
 
 Usage : The pre-compiled exe in releases is ready to go, just run it, choose your video and hit start.
 
