@@ -24,4 +24,6 @@ https://creativecommons.org/licenses/by/4.0/ + one specified requirement of link
 
 # Usage : 
 The pre-compiled exe in releases is ready to go, just run it, choose your video and hit start.
+<img src="https://raw.githubusercontent.com/MoonDevelopmentsLLC/Walala_Player/refs/heads/main/readmeAssets/Frame%201.png" width="500" height="400" />
+<img src="https://raw.githubusercontent.com/MoonDevelopmentsLLC/Walala_Player/refs/heads/main/readmeAssets/Frame%202.png" width="500" height="400" />
 
