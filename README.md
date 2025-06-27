@@ -1,4 +1,4 @@
-# Walala Wallpaper Player
+# <img src="https://raw.githubusercontent.com/MoonDevelopmentsLLC/Walala_Player/refs/heads/main/icon.ico" width="32" height="32" /> Walala Wallpaper Player
 Walala is a wallpaper player for windows, fast, and scripted so simple anyone could audit it.
 
 # All Working Features : 
