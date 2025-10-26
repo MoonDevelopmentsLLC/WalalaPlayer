@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MoonDevelopmentsLLC/Walala_Player/refs/heads/main/icon.ico" width="32" height="32" /> Walala Wallpaper Player
-Walala is a wallpaper player for windows, fast, and scripted so simple anyone could audit it.
+Walala is a wallpaper player for windows, fast, and scripted so simple anyone could audit it . Low resource usage, no spikes and very predictable. Useful for gaming rigs.
+
 
 # All Working Features : 
 Live Wallpapers compatible with common video formats, auto-restart, auto-startup with system, last played video memory and resume with system pause, sleep, hibernation, etc.
